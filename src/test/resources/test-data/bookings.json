@@ -1,0 +1,18 @@
+
+{
+  "validBooking": {
+    "firstname": "Michael",
+    "lastname": "Jordan",
+    "totalprice": 500,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-08-01",
+      "checkout": "2024-08-10"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  "partialUpdateBooking": {
+    "firstname": "Scottie",
+    "additionalneeds": "Lunch"
+  }
+}

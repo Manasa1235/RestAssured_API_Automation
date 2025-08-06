@@ -1,0 +1,11 @@
+
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <documentTitle>Extent Report</documentTitle>
+        <reportName>API Automation</reportName>
+        <timelineEnabled>true</timelineEnabled>
+    </configuration>
+</extentreports>
